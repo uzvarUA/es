@@ -1,0 +1,18 @@
+{
+    "format_version": 1,
+    "header": {
+        "description": "Eurovision Sound",
+        "name": "Eurovision",
+        "uuid": "2dd96c6f-f211-4fe1-8d44-ec0fffddbd67",
+        "version": [0, 0, 1],
+        "min_engine_version": [ 1, 21, 70 ]
+    },
+    "modules": [
+        {
+            "description": "Eurovision Sounds",
+            "type": "resources",
+            "uuid": "4e51bbcd-d68a-47f7-9255-78c6b5980309",
+            "version": [0, 0, 1]
+        }
+    ]
+}
